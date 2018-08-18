@@ -8,6 +8,6 @@ describe "#plus_two" do
 def plus_two(num)
     num + num
     num 
-    binding.pry
+    # binding.pry
 end
 end
