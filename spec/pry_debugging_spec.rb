@@ -6,8 +6,8 @@ describe "#plus_two" do
 		expect(plus_two(3)).to eq(5)
 	end
 def plus_two(num)
-    num + num
-    num 
+    answer = num + 2
+    answer
     # binding.pry
 end
 end
